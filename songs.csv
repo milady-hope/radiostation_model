@@ -1,0 +1,288 @@
+genre,song_title,author,artist,album,release_year,playing_time
+Hip-Hop,Yellow,Coldplay,Coldplay,Parachutes,2007,222
+R&B,Trouble,Coldplay,Coldplay,Parachutes,2007,225
+Rock,Shiver,Coldplay,Coldplay,Parachutes,2000,396
+Electronic,The Scientist,Coldplay,Coldplay,A Rush of Blood to the Head,2009,185
+Hip-Hop,Clocks,Coldplay,Coldplay,A Rush of Blood to the Head,2003,236
+Rock,In My Place,Coldplay,Coldplay,A Rush of Blood to the Head,2001,396
+Rock,Fix You,Coldplay,Coldplay,X&Y,2004,227
+Pop,Speed of Sound,Coldplay,Coldplay,X&Y,2009,221
+Pop,Talk,Coldplay,Coldplay,X&Y,2003,288
+Hip-Hop,Stan,Eminem,Eminem,The Marshall Mathers LP,2008,208
+Rock,The Real Slim Shady,Eminem,Eminem,The Marshall Mathers LP,2006,351
+Electronic,The Way I Am,Eminem,Eminem,The Marshall Mathers LP,2004,186
+Electronic,Without Me,Eminem,Eminem,The Eminem Show,2009,270
+Electronic,Cleanin' Out My Closet,Eminem,Eminem,The Eminem Show,2009,256
+Rock,Sing for the Moment,Eminem,Eminem,The Eminem Show,2009,260
+R&B,Just Lose It,Eminem,Eminem,Encore,2008,253
+Rock,Like Toy Soldiers,Eminem,Eminem,Encore,2000,193
+Pop,Mockingbird,Eminem,Eminem,Encore,2009,251
+Pop,Crazy in Love,Beyonce,Beyonce,Dangerously in Love,2005,202
+Pop,Baby Boy,Beyonce,Beyonce,Dangerously in Love,2009,342
+Hip-Hop,"Me, Myself and I",Beyonce,Beyonce,Dangerously in Love,2004,230
+Hip-Hop,Irreplaceable,Beyonce,Beyonce,B'Day,2000,260
+Electronic,Deja Vu,Beyonce,Beyonce,B'Day,2007,197
+Electronic,Beautiful Liar,Beyonce,Beyonce,B'Day,2002,310
+Hip-Hop,Single Ladies,Beyonce,Beyonce,I Am... Sasha Fierce,2007,371
+R&B,Halo,Beyonce,Beyonce,I Am... Sasha Fierce,2007,224
+Hip-Hop,If I Were a Boy,Beyonce,Beyonce,I Am... Sasha Fierce,2005,240
+Pop,Everything in Its Right Place,Radiohead,Radiohead,Kid A,2002,336
+Hip-Hop,Idioteque,Radiohead,Radiohead,Kid A,2008,383
+Pop,The National Anthem,Radiohead,Radiohead,Kid A,2007,394
+Hip-Hop,Pyramid Song,Radiohead,Radiohead,Amnesiac,2006,230
+Hip-Hop,I Might Be Wrong,Radiohead,Radiohead,Amnesiac,2008,208
+Pop,Knives Out,Radiohead,Radiohead,Amnesiac,2000,309
+Rock,There There,Radiohead,Radiohead,Hail to the Thief,2000,334
+Rock,Go to Sleep,Radiohead,Radiohead,Hail to the Thief,2008,416
+Electronic,2 + 2 = 5,Radiohead,Radiohead,Hail to the Thief,2008,236
+Pop,One More Time,Daft Punk,Daft Punk,Discovery,2004,323
+Pop,"Harder, Better, Faster, Stronger",Daft Punk,Daft Punk,Discovery,2001,353
+Rock,Digital Love,Daft Punk,Daft Punk,Discovery,2006,337
+Hip-Hop,Robot Rock,Daft Punk,Daft Punk,Human After All,2004,216
+Pop,Technologic,Daft Punk,Daft Punk,Human After All,2004,327
+Electronic,Human After All,Daft Punk,Daft Punk,Human After All,2002,248
+R&B,Get Lucky,Daft Punk,Daft Punk,Random Access Memories,2003,398
+Pop,Lose Yourself to Dance,Daft Punk,Daft Punk,Random Access Memories,2006,325
+Hip-Hop,Instant Crush,Daft Punk,Daft Punk,Random Access Memories,2009,280
+Rock,Chasing Pavements,Adele,Adele,19,2009,282
+Electronic,Hometown Glory,Adele,Adele,19,2008,195
+Electronic,Cold Shoulder,Adele,Adele,19,2008,374
+Rock,Rolling in the Deep,Adele,Adele,21,2006,274
+Hip-Hop,Someone Like You,Adele,Adele,21,2001,389
+R&B,Set Fire to the Rain,Adele,Adele,21,2003,350
+Electronic,Hello,Adele,Adele,25,2008,309
+Rock,When We Were Young,Adele,Adele,25,2000,389
+R&B,Send My Love,Adele,Adele,25,2006,277
+Electronic,Umbrella,Rihanna,Rihanna,Good Girl Gone Bad,2007,223
+R&B,Don't Stop the Music,Rihanna,Rihanna,Good Girl Gone Bad,2008,349
+Electronic,Shut Up and Drive,Rihanna,Rihanna,Good Girl Gone Bad,2005,219
+Rock,Only Girl,Rihanna,Rihanna,Loud,2007,298
+R&B,What's My Name?,Rihanna,Rihanna,Loud,2008,323
+Pop,S&M,Rihanna,Rihanna,Loud,2007,334
+R&B,Work,Rihanna,Rihanna,Anti,2005,234
+Electronic,Needed Me,Rihanna,Rihanna,Anti,2004,313
+Hip-Hop,Love on the Brain,Rihanna,Rihanna,Anti,2002,399
+Pop,In the End,Linkin Park,Linkin Park,Hybrid Theory,2003,206
+R&B,Crawling,Linkin Park,Linkin Park,Hybrid Theory,2000,278
+Electronic,One Step Closer,Linkin Park,Linkin Park,Hybrid Theory,2001,416
+R&B,Numb,Linkin Park,Linkin Park,Meteora,2005,198
+Hip-Hop,Breaking the Habit,Linkin Park,Linkin Park,Meteora,2001,272
+Electronic,Faint,Linkin Park,Linkin Park,Meteora,2004,199
+Hip-Hop,Love Story,Taylor Swift,Taylor Swift,Fearless,2004,329
+Electronic,You Belong With Me,Taylor Swift,Taylor Swift,Fearless,2006,380
+Electronic,Fifteen,Taylor Swift,Taylor Swift,Fearless,2006,276
+Rock,Shake It Off,Taylor Swift,Taylor Swift,1989,2007,289
+Electronic,Blank Space,Taylor Swift,Taylor Swift,1989,2008,329
+Hip-Hop,Bad Blood,Taylor Swift,Taylor Swift,1989,2007,239
+Electronic,Starboy,The Weeknd,The Weeknd,Starboy,2003,188
+Pop,I Feel It Coming,The Weeknd,The Weeknd,Starboy,2001,219
+Pop,Party Monster,The Weeknd,The Weeknd,Starboy,2002,195
+Electronic,Blinding Lights,The Weeknd,The Weeknd,After Hours,2000,228
+R&B,In Your Eyes,The Weeknd,The Weeknd,After Hours,2003,236
+Pop,Save Your Tears,The Weeknd,The Weeknd,After Hours,2008,359
+Hip-Hop,Bad Guy,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2002,280
+Rock,When the Party's Over,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2009,281
+Pop,Bury a Friend,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2009,225
+Pop,Shape of You,Ed Sheeran,Ed Sheeran,÷ (Divide),2017,233
+Rock,Bohemian Rhapsody,Queen,Queen,A Night at the Opera,1975,354
+Hip-Hop,Lose Yourself,Eminem,Eminem,8 Mile,2002,326
+R&B,Baby Fire Sky,Queen,Queen,A Night at the Opera,1991,277
+R&B,Sky Love Eyes Forever Time,Bruno Mars,Bruno Mars,24K Magic,2015,344
+Hip-Hop,Dance Sky Eyes Night,Queen,Queen,A Night at the Opera,1995,210
+Hip-Hop,Angel Moon Eyes Baby Forever,Ed Sheeran,Ed Sheeran,÷ (Divide),2015,350
+Rock,Light Light Star,Bruno Mars,Bruno Mars,24K Magic,2009,205
+Hip-Hop,Forever Sky,Daft Punk,Daft Punk,Random Access Memories,1995,186
+Hip-Hop,Star Time Star Heart,Ed Sheeran,Ed Sheeran,÷ (Divide),1991,263
+Pop,Sky Heart Time,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2006,296
+Hip-Hop,Moon Dream Baby Love Forever,The Beatles,The Beatles,Abbey Road,2014,375
+Rock,Time Moon Moon,Beyonce,Beyonce,B'Day,2022,340
+R&B,Star Dream Dream Eyes,Bruno Mars,Bruno Mars,Unorthodox Jukebox,2007,350
+Electronic,Heart Moon Light Star Light,Eminem,Eminem,The Eminem Show,1996,248
+R&B,Dance Love Time Sky Moon,Drake,Drake,Scorpion,1996,242
+Hip-Hop,Eyes Dream,Adele,Adele,21,2011,182
+Pop,Time Heart,SZA,SZA,SOS,2002,399
+Hip-Hop,Sky Love Fire Time Love,Kanye West,Kanye West,The Life of Pablo,2010,366
+Rock,Light Love Forever Dream,Ed Sheeran,Ed Sheeran,÷ (Divide),2013,339
+Rock,Time Love Time,Coldplay,Coldplay,X&Y,2021,398
+Electronic,Star Angel Forever Baby Angel,Queen,Queen,A Night at the Opera,1992,334
+Pop,Love Time Dance Forever Love,Arctic Monkeys,Arctic Monkeys,Tranquility Base Hotel & Casino,2014,243
+Electronic,Forever Time,Lana Del Rey,Lana Del Rey,Born to Die,1997,366
+R&B,Fire Moon,Bruno Mars,Bruno Mars,24K Magic,1993,243
+Hip-Hop,Sky Forever Heart Moon,Kanye West,Kanye West,The Life of Pablo,1998,261
+R&B,Baby Light Sky Forever Dream,Adele,Adele,19,2023,410
+Rock,Night Light Angel Fire,Drake,Drake,Views,1995,388
+Electronic,Light Moon Time,SZA,SZA,SOS,2011,224
+Hip-Hop,Sky Time,Radiohead,Radiohead,Hail to the Thief,1995,190
+Rock,Heart Moon Light,The Weeknd,The Weeknd,Starboy,2001,403
+Rock,Light Heart,Adele,Adele,19,1994,231
+Pop,Love Love Dance Moon,Arctic Monkeys,Arctic Monkeys,AM,2000,310
+Hip-Hop,Dream Eyes Eyes Light,Ariana Grande,Ariana Grande,"Thank U, Next",2023,412
+R&B,Eyes Baby Eyes Angel Fire,Dua Lipa,Dua Lipa,Dua Lipa,1993,209
+Pop,Moon Forever Time Moon,Coldplay,Coldplay,Parachutes,2015,399
+Hip-Hop,Fire Time Sky,The Beatles,The Beatles,Abbey Road,1997,197
+Pop,Light Dream Forever Star,Beyonce,Beyonce,B'Day,1992,215
+Pop,Fire Angel Angel Night Eyes,Arctic Monkeys,Arctic Monkeys,AM,2012,337
+Hip-Hop,Moon Star Dance Moon Time,Adele,Adele,21,1996,318
+R&B,Fire Heart Love,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2015,253
+Hip-Hop,Baby Eyes Light,Ariana Grande,Ariana Grande,Sweetener,2001,367
+Pop,Star Moon Baby,Coldplay,Coldplay,Parachutes,2014,186
+Rock,Night Fire Light Light,Beyonce,Beyonce,Dangerously in Love,1998,395
+R&B,Sky Light Forever Fire Night,Adele,Adele,19,1998,229
+R&B,Light Heart Baby Baby,The Weeknd,The Weeknd,Starboy,2010,199
+Hip-Hop,Night Time,Lana Del Rey,Lana Del Rey,Born to Die,2016,189
+Rock,Eyes Moon,Lady Gaga,Lady Gaga,Born This Way,2013,322
+Hip-Hop,Dance Angel Moon,Drake,Drake,Scorpion,2022,206
+Rock,Light Light Dance,Dua Lipa,Dua Lipa,Future Nostalgia,1998,200
+Electronic,Heart Night Love Night,The Weeknd,The Weeknd,After Hours,2019,364
+Pop,Sky Sky Light Baby,Radiohead,Radiohead,Amnesiac,2015,319
+R&B,Angel Dream,Linkin Park,Linkin Park,Hybrid Theory,2006,411
+Pop,Time Time Light,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2009,304
+Pop,Baby Sky,Taylor Swift,Taylor Swift,1989,1998,207
+Hip-Hop,Light Forever,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2009,417
+R&B,Time Star Eyes Night Sky,Coldplay,Coldplay,A Rush of Blood to the Head,2009,373
+Pop,Night Star Love,Radiohead,Radiohead,Kid A,2000,220
+Pop,Heart Eyes Baby Love,Lana Del Rey,Lana Del Rey,Norman Fucking Rockwell!,2005,357
+Rock,Heart Eyes,Ariana Grande,Ariana Grande,"Thank U, Next",2022,358
+Pop,Heart Love Sky,SZA,SZA,Ctrl,1996,343
+Electronic,Angel Angel Love Time Time,Taylor Swift,Taylor Swift,Fearless,1991,417
+Electronic,Moon Fire Time Sky,Ariana Grande,Ariana Grande,Sweetener,1998,371
+R&B,Baby Star Love,Adele,Adele,19,2022,267
+Pop,Fire Love Star Forever Moon,Adele,Adele,21,1993,414
+R&B,Heart Moon,Coldplay,Coldplay,X&Y,2008,395
+Rock,Baby Star,Kanye West,Kanye West,My Beautiful Dark Twisted Fantasy,2013,397
+R&B,Time Dance Angel Dance,Ed Sheeran,Ed Sheeran,÷ (Divide),2019,324
+Pop,Dance Dance Angel Dance Forever,Coldplay,Coldplay,A Rush of Blood to the Head,1991,244
+Rock,Sky Eyes Angel Heart,Linkin Park,Linkin Park,Meteora,2015,420
+Electronic,Light Love Eyes Time,Rihanna,Rihanna,Loud,2013,196
+Pop,Night Dance Love Love,The Beatles,The Beatles,Abbey Road,2000,318
+Hip-Hop,Love Heart Love Star Moon,Bruno Mars,Bruno Mars,24K Magic,1998,330
+Electronic,Forever Angel Time Moon Fire,Kanye West,Kanye West,The Life of Pablo,2014,210
+Rock,Sky Forever,Taylor Swift,Taylor Swift,1989,2023,268
+Electronic,Time Star,Bruno Mars,Bruno Mars,Unorthodox Jukebox,2009,265
+R&B,Dance Sky Sky Dream,The Weeknd,The Weeknd,Starboy,2012,339
+Rock,Heart Dance Moon Night Eyes,Linkin Park,Linkin Park,Meteora,2017,349
+Pop,Star Time,Ariana Grande,Ariana Grande,"Thank U, Next",2013,312
+Pop,Night Star,Radiohead,Radiohead,Amnesiac,2002,395
+R&B,Time Night Forever,Ariana Grande,Ariana Grande,Sweetener,2005,408
+Rock,Angel Light,Adele,Adele,19,2013,250
+Rock,Light Love Angel Eyes,Taylor Swift,Taylor Swift,1989,2012,280
+R&B,Baby Angel Sky Fire Light,Bruno Mars,Bruno Mars,Unorthodox Jukebox,2004,236
+Rock,Sky Dream,Drake,Drake,Views,2005,380
+Pop,Eyes Sky Love,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2015,233
+R&B,Fire Forever Moon Star Angel,Queen,Queen,A Night at the Opera,1998,194
+Hip-Hop,Angel Star,Ariana Grande,Ariana Grande,"Thank U, Next",2002,320
+Rock,Love Light,Lana Del Rey,Lana Del Rey,Norman Fucking Rockwell!,1998,254
+R&B,Eyes Baby Moon Sky,Lana Del Rey,Lana Del Rey,Born to Die,1994,320
+Electronic,Dream Forever Moon Love,Lana Del Rey,Lana Del Rey,Norman Fucking Rockwell!,2009,315
+Pop,Fire Fire Forever Baby Night,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2002,418
+Hip-Hop,Dream Time,Adele,Adele,21,2011,271
+R&B,Night Sky,Queen,Queen,A Night at the Opera,2018,238
+Pop,Night Eyes Dance,The Beatles,The Beatles,Abbey Road,2023,323
+Pop,Light Baby Light Angel Dance,SZA,SZA,SOS,2005,284
+Hip-Hop,Forever Forever Baby Night,Beyonce,Beyonce,B'Day,1995,391
+Electronic,Dance Dream,Beyonce,Beyonce,Dangerously in Love,2022,415
+Pop,Angel Time,The Beatles,The Beatles,Abbey Road,1991,291
+Pop,Time Baby Night,Kanye West,Kanye West,My Beautiful Dark Twisted Fantasy,2023,337
+Rock,Dream Night Love,Lana Del Rey,Lana Del Rey,Born to Die,2021,297
+Electronic,Time Forever,Rihanna,Rihanna,Good Girl Gone Bad,1998,292
+Hip-Hop,Star Star Dream Night Star,Daft Punk,Daft Punk,Discovery,2004,260
+R&B,Fire Moon Sky Dance,Rihanna,Rihanna,Loud,1996,334
+Rock,Time Fire,Arctic Monkeys,Arctic Monkeys,AM,1993,361
+Electronic,Time Dream Heart Fire Angel,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",1992,351
+R&B,Night Angel Baby Forever,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",1999,189
+Pop,Love Moon Baby Night,Ed Sheeran,Ed Sheeran,÷ (Divide),2003,250
+Hip-Hop,Fire Dance,Arctic Monkeys,Arctic Monkeys,AM,2021,235
+R&B,Dream Eyes Star,Linkin Park,Linkin Park,Meteora,2008,249
+Electronic,Angel Time Eyes,Radiohead,Radiohead,Kid A,1999,201
+Rock,Angel Love Fire Sky,Radiohead,Radiohead,Kid A,2014,217
+Electronic,Fire Time Dance,Queen,Queen,A Night at the Opera,1997,247
+R&B,Sky Light Angel Dream Fire,Ariana Grande,Ariana Grande,"Thank U, Next",2018,225
+Pop,Eyes Night Night,SZA,SZA,Ctrl,2008,192
+Electronic,Light Dance Baby Love,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2005,386
+Electronic,Night Moon Heart Moon Dream,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2014,309
+Hip-Hop,Eyes Star Forever Baby Forever,Beyonce,Beyonce,I Am... Sasha Fierce,2022,287
+Rock,Moon Dream Forever,Linkin Park,Linkin Park,Meteora,2008,357
+Pop,Angel Light Sky Baby,Queen,Queen,A Night at the Opera,2006,189
+Rock,Angel Sky Eyes Dance,Rihanna,Rihanna,Anti,1995,308
+Rock,Time Love,Bruno Mars,Bruno Mars,24K Magic,2010,213
+R&B,Night Forever Time,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2001,266
+R&B,Sky Sky Star,Kanye West,Kanye West,My Beautiful Dark Twisted Fantasy,2002,354
+Hip-Hop,Light Star,SZA,SZA,Ctrl,2019,292
+R&B,Time Dream Moon Time Dream,Eminem,Eminem,The Marshall Mathers LP,2005,272
+Pop,Moon Eyes Fire,Beyonce,Beyonce,B'Day,2002,217
+Rock,Heart Dance Heart Sky,The Beatles,The Beatles,Sgt. Pepper's Lonely Hearts Club Band,1994,410
+Electronic,Love Love Dance Angel Forever,Ed Sheeran,Ed Sheeran,÷ (Divide),1990,314
+R&B,Sky Fire Forever,Ariana Grande,Ariana Grande,Sweetener,1993,223
+Electronic,Moon Love,Taylor Swift,Taylor Swift,1989,2007,419
+Hip-Hop,Baby Light,Ariana Grande,Ariana Grande,Sweetener,1992,345
+Electronic,Star Angel Light Baby,Beyonce,Beyonce,B'Day,1999,371
+R&B,Star Night Angel Angel Dream,The Weeknd,The Weeknd,Starboy,1990,378
+Hip-Hop,Heart Night Sky Moon,Queen,Queen,A Night at the Opera,2004,199
+Rock,Dream Love Time Heart Baby,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2020,318
+Rock,Love Forever Love Fire Love,Queen,Queen,A Night at the Opera,2022,362
+Pop,Dream Sky,Bruno Mars,Bruno Mars,Unorthodox Jukebox,2009,282
+Hip-Hop,Star Star,Beyonce,Beyonce,B'Day,2009,307
+Electronic,Baby Moon Heart Moon Forever,Dua Lipa,Dua Lipa,Future Nostalgia,2008,301
+Pop,Eyes Fire Baby Forever,Coldplay,Coldplay,X&Y,1999,368
+R&B,Fire Fire,SZA,SZA,SOS,1993,252
+Pop,Time Star,Lana Del Rey,Lana Del Rey,Norman Fucking Rockwell!,2008,347
+Rock,Forever Love,Taylor Swift,Taylor Swift,1989,1994,207
+Rock,Dance Night Dance,Arctic Monkeys,Arctic Monkeys,Tranquility Base Hotel & Casino,1990,188
+Hip-Hop,Heart Light Love,Billie Eilish,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2023,394
+Rock,Fire Forever Star,Taylor Swift,Taylor Swift,Fearless,1995,236
+R&B,Sky Moon Angel,The Weeknd,The Weeknd,After Hours,2012,227
+Hip-Hop,Dance Dance Time Time,The Beatles,The Beatles,Abbey Road,2023,401
+Pop,Eyes Time Heart Fire,Lady Gaga,Lady Gaga,The Fame,2021,329
+Pop,Light Love Night Love,Eminem,Eminem,Encore,1996,187
+Hip-Hop,Star Love Dream Angel Moon,SZA,SZA,SOS,2021,250
+Electronic,Dream Time Love Love,Beyonce,Beyonce,B'Day,2011,268
+R&B,Dance Fire Dance Dance,The Weeknd,The Weeknd,Starboy,2023,237
+Hip-Hop,Night Star Dance Forever Forever,Daft Punk,Daft Punk,Human After All,2000,384
+Pop,Night Star,Daft Punk,Daft Punk,Human After All,2002,229
+Rock,Dream Time Dance,Daft Punk,Daft Punk,Human After All,2021,399
+Hip-Hop,Heart Love Dream,Bruno Mars,Bruno Mars,24K Magic,2011,234
+Pop,Eyes Time Light,Queen,Queen,A Night at the Opera,1991,360
+Hip-Hop,Forever Night Night Love,Drake,Drake,Scorpion,1993,382
+Hip-Hop,Sky Sky,Taylor Swift,Taylor Swift,Fearless,2003,308
+R&B,Heart Eyes Dream,Dua Lipa,Dua Lipa,Future Nostalgia,2000,408
+Rock,Time Dream Baby Fire,SZA,SZA,Ctrl,2001,342
+Electronic,Light Time Time Angel,Coldplay,Coldplay,X&Y,2021,339
+Rock,Dance Dream Moon,Taylor Swift,Taylor Swift,Fearless,1999,184
+Hip-Hop,Heart Dream Dance Sky Fire,Ariana Grande,Ariana Grande,"Thank U, Next",2010,183
+Rock,Light Light Star Dance Star,Arctic Monkeys,Arctic Monkeys,Tranquility Base Hotel & Casino,1993,405
+Pop,Baby Dream,Linkin Park,Linkin Park,Meteora,1999,298
+R&B,Moon Fire,The Beatles,The Beatles,Abbey Road,2023,180
+Hip-Hop,Angel Forever Sky Heart Forever,The Beatles,The Beatles,Abbey Road,2012,419
+Hip-Hop,Heart Star,Taylor Swift,Taylor Swift,Fearless,1992,333
+Pop,Heart Night,Dua Lipa,Dua Lipa,Future Nostalgia,2000,217
+Electronic,Light Star Time Moon Night,Drake,Drake,Scorpion,2014,337
+Rock,Dream Baby Fire Star,Drake,Drake,Scorpion,2012,334
+Electronic,Night Dream Baby,Beyonce,Beyonce,I Am... Sasha Fierce,2022,383
+R&B,Heart Dance,Adele,Adele,25,1994,241
+Hip-Hop,Dream Heart Love,Beyonce,Beyonce,B'Day,2011,219
+Pop,Love Sky Time Time,Lady Gaga,Lady Gaga,Born This Way,2013,403
+Rock,Star Baby Moon Moon Time,Coldplay,Coldplay,A Rush of Blood to the Head,2019,328
+Pop,Light Time Eyes Sky Baby,Drake,Drake,Scorpion,2003,390
+Rock,Light Forever Eyes,Rihanna,Rihanna,Anti,2004,228
+R&B,Time Angel,Adele,Adele,21,2007,301
+Electronic,Heart Fire Light Star Angel,Coldplay,Coldplay,X&Y,2023,355
+Hip-Hop,Dance Sky Night Love Moon,Lana Del Rey,Lana Del Rey,Born to Die,1996,372
+Pop,Moon Moon,Dua Lipa,Dua Lipa,Dua Lipa,2003,230
+Pop,Star Angel,Ed Sheeran,Ed Sheeran,÷ (Divide),2002,190
+R&B,Forever Dance Fire,Beyonce,Beyonce,Dangerously in Love,1999,385
+Pop,Love Dream Forever Moon Night,Rihanna,Rihanna,Anti,2004,407
+Hip-Hop,Eyes Fire Moon,Rihanna,Rihanna,Good Girl Gone Bad,2003,313
+Pop,Star Eyes Heart Angel Heart,Beyonce,Beyonce,B'Day,2021,214
+Hip-Hop,Love Baby,Linkin Park,Linkin Park,Meteora,2011,398
+R&B,Star Eyes Dream Dance,Lady Gaga,Lady Gaga,The Fame,2013,379
+Pop,Dream Fire,Beyonce,Beyonce,I Am... Sasha Fierce,2003,293
+Pop,Moon Dance Love Forever,Adele,Adele,19,2022,198
+Hip-Hop,Dance Baby Heart,Coldplay,Coldplay,A Rush of Blood to the Head,2012,323
+Pop,Love Sky,Daft Punk,Daft Punk,Discovery,1993,420
+Electronic,Angel Fire,Beyonce,Beyonce,Dangerously in Love,1992,283
+Pop,Eyes Eyes Angel,Bruno Mars,Bruno Mars,24K Magic,1997,249
+Electronic,Heart Eyes Fire,Linkin Park,Linkin Park,Meteora,1999,413
+R&B,Moon Time,Arctic Monkeys,Arctic Monkeys,Tranquility Base Hotel & Casino,2007,276
+Rock,Angel Eyes,SZA,SZA,Ctrl,1990,313
+R&B,Star Dance,Dua Lipa,Dua Lipa,Future Nostalgia,1993,229
+Pop,Night Sky Angel,Arctic Monkeys,Arctic Monkeys,AM,2014,409
